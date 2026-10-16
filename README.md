@@ -1,6 +1,6 @@
 # Minecraft: LCE Decompilation Project
 
-![Progress](https://github.com/GRAnimated/MinecraftLCE-docs/blob/main/img/progress.png?raw=true)
+![Progress](img/progress.png)
 
 [![Discord Channel][discord-badge]][discord]
 
